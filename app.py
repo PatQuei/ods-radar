@@ -21,11 +21,12 @@ ods_escolhido = st.selectbox("🔎 Escolha um ODS", ["Todos"] + ods_opcoes)
 # Filtro de notícias
 for noticia in noticias:
     if ods_escolhido == "Todos" or noticia["ods"] == ods_escolhido:
+        description = noticia.get("descricao", noticia.get("resumo", "Descrição não disponível"))
         st.markdown(f"""
         <div class='card'>
             <h2>{noticia["titulo"]}</h2>
             <p><strong>Fonte:</strong> {noticia["fonte"]}</p>
-            <p>{noticia.get("descricao", noticia.get("resumo", "Descrição não disponível"))}</p>
+            <p>{description}</p>
             <a href="{noticia["link"]}" target="_blank">🔗 Leia mais</a>
         </div>
         """, unsafe_allow_html=True)
