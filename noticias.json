@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Brasil reduz desperdício de alimentos com projeto comunitário",
+    "fonte": "ONU Brasil",
+    "resumo": "Iniciativa em comunidades de São Paulo transforma alimentos excedentes em refeições para famílias em situação de vulnerabilidade.",
+    "link": "https://www.onu.org.br",
+    "ods": "ODS 2 - Fome Zero"
+  },
+  {
+    "titulo": "Empresas adotam energia solar para reduzir impactos ambientais",
+    "fonte": "G1 Sustentabilidade",
+    "resumo": "Novas políticas públicas incentivam o uso de energia limpa no setor privado.",
+    "link": "https://g1.globo.com",
+    "ods": "ODS 7 - Energia Limpa"
+  }
+]
