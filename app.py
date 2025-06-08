@@ -25,7 +25,7 @@ for noticia in noticias:
         <div class='card'>
             <h2>{noticia["titulo"]}</h2>
             <p><strong>Fonte:</strong> {noticia["fonte"]}</p>
-            <p>{noticia["descricao"]}</p>
+            <p>{noticia.get("descricao", noticia.get("resumo", "Descrição não disponível"))}</p>
             <a href="{noticia["link"]}" target="_blank">🔗 Leia mais</a>
         </div>
         """, unsafe_allow_html=True)
