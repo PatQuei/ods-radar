@@ -1,16 +1,37 @@
 [
   {
-    "titulo": "Brasil reduz desperdício de alimentos com projeto comunitário",
+    "titulo": "ONU alerta para aumento da fome no mundo",
+    "descricao": "Relatório indica que mais de 800 milhões de pessoas enfrentam insegurança alimentar.",
     "fonte": "ONU Brasil",
-    "resumo": "Iniciativa em comunidades de São Paulo transforma alimentos excedentes em refeições para famílias em situação de vulnerabilidade.",
-    "link": "https://www.onu.org.br",
-    "ods": "ODS 2 - Fome Zero"
+    "link": "https://brasil.un.org/pt-br/236895",
+    "ods": "ODS 2 - Fome Zero e Agricultura Sustentável"
   },
   {
-    "titulo": "Empresas adotam energia solar para reduzir impactos ambientais",
-    "fonte": "G1 Sustentabilidade",
-    "resumo": "Novas políticas públicas incentivam o uso de energia limpa no setor privado.",
-    "link": "https://g1.globo.com",
-    "ods": "ODS 7 - Energia Limpa"
+    "titulo": "Educação digital transforma comunidades periféricas",
+    "descricao": "Projetos sociais levam inclusão digital e oportunidades para jovens em regiões vulneráveis.",
+    "fonte": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2024-04",
+    "ods": "ODS 4 - Educação de Qualidade"
+  },
+  {
+    "titulo": "Brasil reduz desmatamento na Amazônia em 2024",
+    "descricao": "Dados apontam queda de 35% nos alertas de desmatamento em comparação com 2023.",
+    "fonte": "G1",
+    "link": "https://g1.globo.com/natureza/noticia/2024/06/25",
+    "ods": "ODS 13 - Ação Contra a Mudança Global do Clima"
+  },
+  {
+    "titulo": "Igualdade de gênero avança no setor público brasileiro",
+    "descricao": "Levantamento aponta aumento de mulheres em cargos de liderança em ministérios e órgãos públicos.",
+    "fonte": "ONU Mulheres Brasil",
+    "link": "https://www.onumulheres.org.br/noticias/2024-03/",
+    "ods": "ODS 5 - Igualdade de Gênero"
+  },
+  {
+    "titulo": "Cidades brasileiras inovam em mobilidade sustentável",
+    "descricao": "Novas ciclovias e transporte elétrico ganham espaço em capitais como Curitiba e Recife.",
+    "fonte": "Estadão",
+    "link": "https://www.estadao.com.br/sustentabilidade/2024-02",
+    "ods": "ODS 11 - Cidades e Comunidades Sustentáveis"
   }
 ]
